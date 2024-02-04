@@ -1,0 +1,8 @@
+version: 3.10.0
+files:
+  - url: ee-win-3.10.0-x64.exe
+    sha512: r0VACIZq/UEZOk4/zkkIVfh0T/PLOZinIjn8nC/5/IvwemJmYXku9LlZPosPt6J/mZfWfgDY7XXLH/bmD8Dwgw==
+    size: 70284708
+path: ee-win-3.10.0-x64.exe
+sha512: r0VACIZq/UEZOk4/zkkIVfh0T/PLOZinIjn8nC/5/IvwemJmYXku9LlZPosPt6J/mZfWfgDY7XXLH/bmD8Dwgw==
+releaseDate: '2024-02-04T07:11:39.565Z'
